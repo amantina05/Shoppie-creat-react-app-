@@ -1,0 +1,16 @@
+.nominations {
+  display: flex;
+  border: 1px solid gray;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  background-color: white;
+  position: absolute;
+  /* position: fixed; */
+  right: 0px;
+  width: 43%;
+}
